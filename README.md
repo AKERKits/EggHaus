@@ -1,6 +1,7 @@
 #EggHaus
 
-![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Assembly.jpg?raw=true)
+![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Assembly%20Cropped.jpg?raw=true)
+![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Nesting%20Cropped.jpg?raw=true)
 
 The EggHaus is a CNC-routable, flat-packable, chicken coop designed to be made from a single sheet of plywood.
 
