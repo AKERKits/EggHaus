@@ -1,5 +1,8 @@
 #AKER EggHaus v1.0
 
+![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Assembly%20Cropped.jpg?raw=true)
+![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Nesting%20Cropped.jpg?raw=true)
+
 *Overview*
 
 The **AKER EggHaus** is a lightweight chicken tractor designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
@@ -15,9 +18,6 @@ The **EggHaus** was modeled using our older modeling style, so the range of tool
  * 12 mm material & 6.35 mm tool
  * 18 mm material & 6.35 mm tool
 
-*Images*
 
-![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Assembly%20Cropped.jpg?raw=true)
-![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Nesting%20Cropped.jpg?raw=true)
 
 
