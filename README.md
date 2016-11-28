@@ -17,6 +17,8 @@ The **EggHaus** was modeled using our older modeling style, so the range of tool
  * 12 mm material & 6.35 mm tool
  * 18 mm material & 6.35 mm tool
 
+*Nesting Layout*
+
 ![EggHaus](https://github.com/AKERKits/EggHaus/blob/master/Images/AKER%20-%20EggHaus%20-%20v1.0%20-%20Nesting%20Cropped.jpg?raw=true)
 
 
